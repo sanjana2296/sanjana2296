@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👩‍💻 Sanjana Poojary
 
-<!--
-**sanjana2296/sanjana2296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MS in Computer Science** | Northeastern University  
+**Full Stack Developer** | **Software Engineer** | **Teaching Assistant**
 
-Here are some ideas to get you started:
+🌐 **Tech Stack:** TypeScript, Java, Angular, React, Node.js, AWS, Elasticsearch, Kubernetes  
+📊 **Interests:** TDD, CI/CD, Cloud Computing, Data Engineering  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about creating accessible, innovative solutions to real-world problems.
+
+---
+
+📂 **Featured Projects:**
+- 🔗 [Collaborative Chat App](https://github.com/sanjana2296/collaborative-chat-app)
+- 🔗 [Notes Management System](https://github.com/sanjana2296/notes-app)
+- 🔗 [RegExplorer](https://github.com/sanjana2296/regexplorer)
+
+🌟 _"Code is my canvas; innovation is my art."_  
+📫 **[LinkedIn](https://www.linkedin.com/in/sanjanapoojary22/)** | **[Portfolio](https://your-portfolio-link.com)**  
