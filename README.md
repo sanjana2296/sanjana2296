@@ -2,6 +2,7 @@
 
 **MS in Computer Science** | Northeastern University  
 **CO OP - Software engineer intern** | Philips
+
 **Full Stack Developer** | **Software Engineer** | **Teaching Assistant**
 
 🌟 Passionate about creating accessible, innovative solutions to real-world problems.  
